@@ -41,7 +41,7 @@ Compilation and Install
 -----------------------
 To install this program cd to this directory and run:
 
-./autogen.sh
+autoreconf -fi
 
 make
 
